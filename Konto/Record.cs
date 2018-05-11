@@ -148,8 +148,6 @@ namespace Konto
             nrOfNotFoundFields = notFoundFields.Count;
             return dict;
         }
-        
-
 
         public string[] SplitLine(string line)
         {
