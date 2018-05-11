@@ -7,6 +7,7 @@ namespace Konto
 {
     /// <summary>
     /// Get exported Format from Telebanking
+    /// aso
     /// </summary>
     static class Program
     {
