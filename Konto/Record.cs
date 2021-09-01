@@ -28,7 +28,8 @@ namespace Konto
             Bank,
             Ärzte,
             Eigenübertrag,
-            Patricia
+            Patricia,
+            Reise
         }
 
         public const string SEPARATOR = ";";
