@@ -17,7 +17,7 @@ namespace Konto
 
         #region Constants
         //private const string DATABASE = @"C:\Users\a.ausweger\Documents\Div\Konto monatlich\Konto2015.xml";
-        private const string DATABASE = @"C:\Users\a.ausweger\Documents\Div\Konto monatlich\Konto.xml";
+        private const string DATABASE = @"C:\Daten zu Sichern\a.ausweger\Documents\Div\Konto monatlich\Konto.xml";
 
         #endregion
 
@@ -128,7 +128,7 @@ namespace Konto
         {
             try
             {
-                openFileDialog1.InitialDirectory = @"C:\Users\a.ausweger\Documents\Div\Konto monatlich";
+                openFileDialog1.InitialDirectory = @"C:\Daten zu Sichern\a.ausweger\Documents\Div\Konto monatlich";
                 openFileDialog1.Title = "CSV-Datei";
                 openFileDialog1.Filter = "(*.csv)|*.csv|All files (*.*)|*.*";
                 DialogResult res = openFileDialog1.ShowDialog(this);
