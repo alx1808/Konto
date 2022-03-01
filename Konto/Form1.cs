@@ -17,7 +17,7 @@ namespace Konto
 
         #region Constants
         //private const string DATABASE = @"C:\Users\a.ausweger\Documents\Div\Konto monatlich\Konto2015.xml";
-        private const string DATABASE = @"C:\Daten zu Sichern\a.ausweger\Documents\Div\Konto monatlich\Konto.xml";
+        private const string DATABASE = @"C:\Daten zu Sichern\Div\Konto monatlich\Konto.xml";
 
         #endregion
 
